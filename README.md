@@ -3,9 +3,12 @@
 ## Student Details
 
 Name: Yash Kumar Suman
-Registration Number: [Your Reg No.]
-Branch: [Your Branch]
-Year: First Year
+
+Registration Number: 25BCE10212
+
+Branch: CSE Core
+
+Year: First Year B.Tech
 
 ---
 
